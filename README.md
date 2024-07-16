@@ -17,8 +17,8 @@ cd ecommerce-backend-api-node
 ## Installation
 
 1. Install dependencies:
-
-   ```npm install```
+   ```bash 
+   npm install
    
 2. Create a .env file and update the following values:
    ``` bash
