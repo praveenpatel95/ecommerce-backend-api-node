@@ -20,7 +20,9 @@ cd ecommerce-backend-api-node
    ```bash 
    npm install
    
-2. Create a .env file and update the following values:
+2. Create a .env file and update the following values.
+    OR you can use the default PORT and HOST already implemented in index.js:
+
    ``` bash
         HOST=<your_host>
         LOCALHOST=<your_localhost>`
